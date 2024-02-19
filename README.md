@@ -1,6 +1,6 @@
 ### Hi I'm Jordan Neumann 👋
 <hr>
-<p>A recent BA grad interested in building exciting projects and continuing to grow my abilities and my network
+<p>A recent BA grad living in Atlanta, interested in building exciting projects while continuing to grow my abilities and my network
 <p>Find me on LinkedIn!<a href="https://www.linkedin.com/in/jneum/"> LINK </a></p>
 
 <!--
