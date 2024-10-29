@@ -1,7 +1,7 @@
 ### Hi I'm Jordan Neumann 👋
 <hr>
-<p>A recent BA grad living in Atlanta, interested in building exciting projects while fostering the growth of my toolkit and my network
-<p>Find me on <a href="https://www.linkedin.com/in/jneum/"> LinkedIn </a></p>
+<p>A recent BA grad living in Atlanta, interested in creating exciting-functional projects while expanding my skills and network
+<p>Lets connect on <a href="https://www.linkedin.com/in/jneum/"> LinkedIn </a></p>
 
 <!--
 **jordanNeu/jordanNeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
